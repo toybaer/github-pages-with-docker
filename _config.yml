@@ -26,8 +26,9 @@ keywords:              [Markus Teubner, dev engineer]
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Markus> <Teubner>
-  email:               <toybaer@gmail.com>
+  name:                 Markus Teubner
+  email:                toybaer@gmail.com
+  instagram:            toybaer
 
 # Add links to the sidebar.
 menu:
@@ -326,7 +327,7 @@ plugins:
 
 # Used for twitter cards
 # twitter:
-#   username:            <username>
+#  username:            toybaer
 
 # Used for facebook open graph
 # facebook:
